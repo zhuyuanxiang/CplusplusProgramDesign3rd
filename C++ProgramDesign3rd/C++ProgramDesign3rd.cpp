@@ -18,7 +18,7 @@ int main()
 	cout << endl;
 	//src3_5();
 	cout << endl;
-	src3_6();
+	//src3_6();
 	cout << endl;
 	src3_7();
 	cout << endl;
