@@ -2,11 +2,11 @@
 //
 
 #include <iostream>
-#include "sec3.h"
+#include "chap3.h"
 
 int main()
 {
-    sec3_4();
+    src3_4();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

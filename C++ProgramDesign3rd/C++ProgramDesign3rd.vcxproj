@@ -140,10 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C++ProgramDesign3rd.cpp" />
-    <ClCompile Include="sec3_4.cpp" />
+    <ClCompile Include="src3_4.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="sec3.h" />
+    <ClInclude Include="chap3.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

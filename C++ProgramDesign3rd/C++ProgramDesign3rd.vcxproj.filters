@@ -18,12 +18,12 @@
     <ClCompile Include="C++ProgramDesign3rd.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="sec3_4.cpp">
+    <ClCompile Include="src3_4.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="sec3.h">
+    <ClInclude Include="chap3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
