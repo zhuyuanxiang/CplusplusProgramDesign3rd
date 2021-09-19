@@ -10,6 +10,8 @@ int main()
 {
 	src3_1();
 	cout << endl;
+	src3_2();
+	cout << endl;
 	src3_4();
 }
 
