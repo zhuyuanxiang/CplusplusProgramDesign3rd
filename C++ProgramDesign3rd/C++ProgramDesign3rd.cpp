@@ -6,6 +6,7 @@
 
 int main()
 {
+    src3_1();
     src3_4();
 }
 
