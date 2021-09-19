@@ -10,13 +10,17 @@ int main()
 {
 	src3_1();
 	cout << endl;
-	src3_2();
+	//src3_2();
 	cout << endl;
 	src3_3();
 	cout << endl;
 	src3_4();
 	cout << endl;
-	src3_5();
+	//src3_5();
+	cout << endl;
+	src3_6();
+	cout << endl;
+	src3_7();
 	cout << endl;
 }
 
