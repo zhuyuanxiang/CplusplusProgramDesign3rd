@@ -144,6 +144,7 @@
     <ClCompile Include="src3_2.cpp" />
     <ClCompile Include="src3_3.cpp" />
     <ClCompile Include="src3_4.cpp" />
+    <ClCompile Include="src3_5.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="chap3.h" />
