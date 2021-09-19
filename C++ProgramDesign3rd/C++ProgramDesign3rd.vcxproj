@@ -142,6 +142,7 @@
     <ClCompile Include="C++ProgramDesign3rd.cpp" />
     <ClCompile Include="src3_1.cpp" />
     <ClCompile Include="src3_2.cpp" />
+    <ClCompile Include="src3_3.cpp" />
     <ClCompile Include="src3_4.cpp" />
   </ItemGroup>
   <ItemGroup>

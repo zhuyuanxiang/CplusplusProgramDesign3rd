@@ -12,6 +12,8 @@ int main()
 	cout << endl;
 	src3_2();
 	cout << endl;
+	src3_3();
+	cout << endl;
 	src3_4();
 }
 
