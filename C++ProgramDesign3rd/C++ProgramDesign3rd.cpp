@@ -20,7 +20,9 @@ int main()
 	cout << endl;
 	//src3_6();
 	cout << endl;
-	src3_7();
+	//src3_7();
+	cout << endl;
+	src3_8();
 	cout << endl;
 }
 
