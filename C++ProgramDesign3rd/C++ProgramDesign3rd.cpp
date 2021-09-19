@@ -4,10 +4,13 @@
 #include <iostream>
 #include "chap3.h"
 
+using namespace std;
+
 int main()
 {
-    src3_1();
-    src3_4();
+	src3_1();
+	cout << endl;
+	src3_4();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

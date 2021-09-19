@@ -1,14 +1,14 @@
 #include <iostream>
 using namespace std;
 
-int src3_4()
+void src3_4()
 {
+	cout << "--->" << "´úÂë3-4£º" << "<---" << endl;
 	bool symm(long n);
 	long m;
 	for (m = 11; m < 1000; m++)
 		if (symm(m) && symm(m * m) && symm(m * m * m))
 			cout << "m=" << m << " m*m=" << m * m << " m*m*m=" << m * m * m << endl;
-	return 0;
 }
 
 bool symm(long n)
