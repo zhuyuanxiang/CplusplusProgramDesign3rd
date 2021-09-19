@@ -24,6 +24,9 @@
     <ClCompile Include="src3_1.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="src3_2.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="chap3.h">
