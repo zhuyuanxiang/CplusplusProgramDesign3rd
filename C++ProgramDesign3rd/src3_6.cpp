@@ -43,7 +43,6 @@ void src3_6()
 				cout << "player loses\n!";
 		}
 	}
-		
 }
 
 int rolldice(void)
