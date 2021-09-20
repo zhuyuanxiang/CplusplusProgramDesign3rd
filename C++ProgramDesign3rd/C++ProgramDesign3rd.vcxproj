@@ -140,19 +140,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C++ProgramDesign3rd.cpp" />
-    <ClCompile Include="src3_1.cpp" />
-    <ClCompile Include="src3_10.cpp" />
-    <ClCompile Include="src3_2.cpp" />
-    <ClCompile Include="src3_3.cpp" />
-    <ClCompile Include="src3_4.cpp" />
-    <ClCompile Include="src3_5.cpp" />
-    <ClCompile Include="src3_6.cpp" />
-    <ClCompile Include="src3_7.cpp" />
-    <ClCompile Include="src3_8.cpp" />
-    <ClCompile Include="src3_9.cpp" />
+    <ClCompile Include="src\chap03\src3_1.cpp" />
+    <ClCompile Include="src\chap03\src3_10.cpp" />
+    <ClCompile Include="src\chap03\src3_2.cpp" />
+    <ClCompile Include="src\chap03\src3_3.cpp" />
+    <ClCompile Include="src\chap03\src3_4.cpp" />
+    <ClCompile Include="src\chap03\src3_5.cpp" />
+    <ClCompile Include="src\chap03\src3_6.cpp" />
+    <ClCompile Include="src\chap03\src3_7.cpp" />
+    <ClCompile Include="src\chap03\src3_8.cpp" />
+    <ClCompile Include="src\chap03\src3_9.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="chap3.h" />
+    <ClInclude Include="include\chap3.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

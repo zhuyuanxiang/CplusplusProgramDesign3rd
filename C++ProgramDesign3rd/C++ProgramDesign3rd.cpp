@@ -1,8 +1,8 @@
-// C++ProgramDesign3rd.cpp : This file contains the 'main' function. Program execution begins and ends there.
+﻿// C++ProgramDesign3rd.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
-#include "chap3.h"
+#include "include\chap3.h"
 
 using namespace std;
 
@@ -24,9 +24,11 @@ int main()
 	cout << endl;
 	//src3_8();
 	cout << endl;
-	src3_9();
+	//src3_9();
 	cout << endl;
-	src3_10();
+	//src3_10();
+	cout << endl;
+	//src3_11();
 	cout << endl;
 }
 
