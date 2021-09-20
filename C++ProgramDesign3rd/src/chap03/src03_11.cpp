@@ -7,8 +7,8 @@ void swap(int a, int b) {
 }
 void src03_11()
 {
-	// P76，值引用：变量交换
-	cout << "--->" << "代码3-11：" << "<---" << endl;
+	// P76，值传递：变量交换
+	cout << "--->" << "代码3-11（值传递）：" << "<---" << endl;
 	int x(5), y(10);
 	cout << "Before swap(x,y): " << "x=" << x << "; y=" << y << endl;
 	swap(x, y);
