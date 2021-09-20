@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C++ProgramDesign3rd.cpp" />
+    <ClCompile Include="src03_11.cpp" />
     <ClCompile Include="src\chap03\src3_1.cpp" />
     <ClCompile Include="src\chap03\src3_10.cpp" />
     <ClCompile Include="src\chap03\src3_2.cpp" />
