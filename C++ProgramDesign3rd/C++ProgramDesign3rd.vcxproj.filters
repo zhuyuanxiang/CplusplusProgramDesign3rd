@@ -42,6 +42,9 @@
     <ClCompile Include="src3_8.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="src3_9.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="chap3.h">
