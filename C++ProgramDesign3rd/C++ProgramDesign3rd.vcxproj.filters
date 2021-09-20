@@ -51,7 +51,7 @@
     <ClCompile Include="src\chap03\src3_10.cpp">
       <Filter>Resource Files\chap03</Filter>
     </ClCompile>
-    <ClCompile Include="src03_11.cpp">
+    <ClCompile Include="src\chap03\src03_11.cpp">
       <Filter>Resource Files\chap03</Filter>
     </ClCompile>
   </ItemGroup>
