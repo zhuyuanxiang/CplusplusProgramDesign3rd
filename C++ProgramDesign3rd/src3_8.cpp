@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 long fac(int n) {
@@ -10,8 +10,8 @@ long fac(int n) {
 }
 void src3_8()
 {
-	// P72£¬µÝ¹éµ÷ÓÃ£ºÇónµÄ½×³Ë
-	cout << "--->" << "´úÂë3-8£º" << "<---" << endl;
+	// P72ï¼Œé€’å½’è°ƒç”¨ï¼šæ±‚nçš„é˜¶ä¹˜
+	cout << "--->" << "ä»£ç 3-8ï¼š" << "<---" << endl;
 	int n;
 	long y;
 	cout << "Enter a positive integer: ";

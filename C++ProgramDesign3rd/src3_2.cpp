@@ -1,9 +1,9 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 double bin2dec(double x, int n);
 void src3_2()
 {
-	cout << "--->" << "´úÂë3-2£º" << "<---" << endl;
+	cout << "--->" << "ä»£ç 3-2ï¼š" << "<---" << endl;
 	int i, value(0);
 	char ch;
 

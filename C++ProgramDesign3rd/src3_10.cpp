@@ -1,4 +1,4 @@
-#include <iostream>
+Ôªø#include <iostream>
 using namespace std;
 
 void move(char get_one, char put_one) {
@@ -14,10 +14,10 @@ void hanoi(int n, char one, char two, char three) {
 }
 void src3_10()
 {
-	// P74£¨∫∫≈µÀ˛Œ Ã‚
-	cout << "--->" << "¥˙¬Î3-10£∫" << "<---" << endl;
+	// P74ÔºåÊ±âËØ∫Â°îÈóÆÈ¢ò
+	cout << "--->" << "‰ª£Á†Å3-10Ôºö" << "<---" << endl;
 	int m;
-	cout << "(∫∫≈µÀ˛Œ Ã‚)Enter the number of diskes: ";
+	cout << "(Ê±âËØ∫Â°îÈóÆÈ¢ò)Enter the number of diskes: ";
 	cin >> m;
 	cout << "the steps to moving " << m << " diskes: " << endl;
 	hanoi(m, 'A', 'B', 'C');

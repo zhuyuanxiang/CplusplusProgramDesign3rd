@@ -1,16 +1,16 @@
-#include <iostream>
+ï»¿#include <iostream>
 
 using namespace std;
 
 void src3_7()
 {
-	// P70£¬Ç¶Ì×µ÷ÓÃ£ºÊäÈëÁ½¸öÕûÊı£¬ÇóËüÃÇµÄÆ½·½ºÍ
-	cout << "--->" << "´úÂë3-7£º" << "<---" << endl;
+	// P70ï¼ŒåµŒå¥—è°ƒç”¨ï¼šè¾“å…¥ä¸¤ä¸ªæ•´æ•°ï¼Œæ±‚å®ƒä»¬çš„å¹³æ–¹å’Œ
+	cout << "--->" << "ä»£ç 3-7ï¼š" << "<---" << endl;
 	int a, b;
 	int fun1(int x, int y);
-	cout << "ÊäÈë a ºÍ b£º";
+	cout << "è¾“å…¥ a å’Œ bï¼š";
 	cin >> a >> b;
-	cout << "a,b µÄÆ½·½ºÍ£º" << fun1(a, b) << endl;
+	cout << "a,b çš„å¹³æ–¹å’Œï¼š" << fun1(a, b) << endl;
 }
 int fun1(int x, int y) {
 	int fun2(int m);

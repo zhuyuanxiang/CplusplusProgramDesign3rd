@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <cstdlib>
 
 using namespace std;
@@ -7,14 +7,14 @@ int rolldice(void);
 
 void src3_6()
 {
-	// ÖÀ÷»×ÓÓÎÏ·
-	cout << "--->" << "´úÂë3-6£º" << "<---" << endl;
-	int gamestatus;	// 1ÎªÊ¤£»2Îª¸º£»0ÎªÆäËû
+	// æ·éª°å­æ¸¸æˆ
+	cout << "--->" << "ä»£ç 3-6ï¼š" << "<---" << endl;
+	int gamestatus;	// 1ä¸ºèƒœï¼›2ä¸ºè´Ÿï¼›0ä¸ºå…¶ä»–
 	int sum, mypoint;
 	unsigned seed;
 
 	cout << "Please enter an unsigned integer: ";
-	cin >> seed;//ÊäÈëËæ»úÊıÖÖ×Ó
+	cin >> seed;//è¾“å…¥éšæœºæ•°ç§å­
 	srand(seed);
 	sum = rolldice();
 	switch (sum) {

@@ -1,13 +1,13 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 void src3_9()
 {
-	// P73£¬µİ¹éËã·¨£º´Ón¸öÈËÖĞÑ¡Ôñk¸öÈË×é³ÉÎ¯Ô±»áµÄ·½·¨ÓĞ¶àÉÙÖÖ£¿
-	cout << "--->" << "´úÂë3-9£º" << "<---" << endl;
+	// P73ï¼Œé€’å½’ç®—æ³•ï¼šä»nä¸ªäººä¸­é€‰æ‹©kä¸ªäººç»„æˆå§”å‘˜ä¼šçš„æ–¹æ³•æœ‰å¤šå°‘ç§ï¼Ÿ
+	cout << "--->" << "ä»£ç 3-9ï¼š" << "<---" << endl;
 	int n, k;
 	int comm(int n, int k);
-	cout << "£¨¼ÆËã×éºÏ£©Enter the number of n & k for C^n_k: ";
+	cout << "ï¼ˆè®¡ç®—ç»„åˆï¼‰Enter the number of n & k for C^n_k: ";
 	cin >> n >> k;
 	cout << comm(n, k) << endl;
 }

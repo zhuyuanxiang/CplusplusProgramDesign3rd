@@ -1,10 +1,10 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 void src3_4()
 {
-	//Ñ°ÕÒ²¢Êä³ö11~999Ö®¼äµÄÊım£¬±£Ö¤m,m*m,m*m*m¶¼ÊÇ»ØÎÄÊı×Ö
-	cout << "--->" << "´úÂë3-4£º" << "<---" << endl;
+	//å¯»æ‰¾å¹¶è¾“å‡º11~999ä¹‹é—´çš„æ•°mï¼Œä¿è¯m,m*m,m*m*méƒ½æ˜¯å›æ–‡æ•°å­—
+	cout << "--->" << "ä»£ç 3-4ï¼š" << "<---" << endl;
 	bool symm(long n);
 	long m;
 	for (m = 11; m < 1000; m++)

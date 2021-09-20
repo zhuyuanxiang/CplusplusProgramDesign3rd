@@ -1,8 +1,8 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 void src3_3() {
-	// ÇóPIµÄÖµ
-	cout << "--->" << "´úÂë3-3£º" << "<---" << endl;
+	// æ±‚PIçš„å€¼
+	cout << "--->" << "ä»£ç 3-3ï¼š" << "<---" << endl;
 	double a, b;
 	double arctan(double x);
 	a = 16.0 * arctan(1 / 5.0);

@@ -1,11 +1,11 @@
-#include <iostream>
-#include <cmath>	// C++ ±ê×¼¿âÖÐÊýÑ§º¯Êý
+ï»¿#include <iostream>
+#include <cmath>	// C++ æ ‡å‡†åº“ä¸­æ•°å­¦å‡½æ•°
 
 using namespace std;
 void src3_5()
 {
-	// Çó¹«Ê½µÄÖµ
-	cout << "--->" << "´úÂë3-5£º" << "<---" << endl;
+	// æ±‚å…¬å¼çš„å€¼
+	cout << "--->" << "ä»£ç 3-5ï¼š" << "<---" << endl;
 	double k, r, s;
 	double tsin(double x);
 	cout << "r=";
