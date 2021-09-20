@@ -26,6 +26,8 @@ int main()
 	cout << endl;
 	src3_9();
 	cout << endl;
+	src3_10();
+	cout << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

@@ -8,3 +8,4 @@ void src3_6();
 void src3_7();
 void src3_8();
 void src3_9();
+void src3_10();
