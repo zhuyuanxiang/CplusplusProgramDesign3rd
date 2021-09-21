@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="C++ProgramDesign3rd.cpp" />
     <ClCompile Include="chap03.cpp" />
+    <ClCompile Include="ch04.cpp" />
     <ClCompile Include="src\chap03\src03_11.cpp" />
     <ClCompile Include="src\chap03\src03_12.cpp" />
     <ClCompile Include="src\chap03\src03_13.cpp" />
@@ -161,6 +162,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C++ProgramDesign3rd.h" />
+    <ClInclude Include="include\ch04.h" />
     <ClInclude Include="include\chap3.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

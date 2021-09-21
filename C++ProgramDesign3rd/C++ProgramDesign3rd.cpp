@@ -8,7 +8,8 @@ using namespace std;
 
 int main()
 {
-	chap03();
+	//chap03();
+	ch04();
 }
 
 

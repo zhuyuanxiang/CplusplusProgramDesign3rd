@@ -78,12 +78,18 @@
     <ClCompile Include="chap03.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ch04.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\chap3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="C++ProgramDesign3rd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ch04.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
