@@ -141,7 +141,9 @@
   <ItemGroup>
     <ClCompile Include="C++ProgramDesign3rd.cpp" />
     <ClCompile Include="chap03.cpp" />
-    <ClCompile Include="ch04.cpp" />
+    <ClCompile Include="ch04.cpp">
+      <DeploymentContent>false</DeploymentContent>
+    </ClCompile>
     <ClCompile Include="src\chap03\src03_11.cpp" />
     <ClCompile Include="src\chap03\src03_12.cpp" />
     <ClCompile Include="src\chap03\src03_13.cpp" />
@@ -159,6 +161,7 @@
     <ClCompile Include="src\chap03\src3_7.cpp" />
     <ClCompile Include="src\chap03\src3_8.cpp" />
     <ClCompile Include="src\chap03\src3_9.cpp" />
+    <ClCompile Include="src\ch04\src0401.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C++ProgramDesign3rd.h" />

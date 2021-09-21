@@ -16,7 +16,7 @@
     <Filter Include="Resource Files\chap03">
       <UniqueIdentifier>{9ac947ad-92be-4f42-8664-60cd98a807a2}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Resource Files\chap04">
+    <Filter Include="Resource Files\ch04">
       <UniqueIdentifier>{91c44299-8480-4cd4-9fff-b4ad58f13dbf}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -80,6 +80,9 @@
     </ClCompile>
     <ClCompile Include="ch04.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch04\src0401.cpp">
+      <Filter>Resource Files\ch04</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
