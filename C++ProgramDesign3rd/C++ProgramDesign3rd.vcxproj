@@ -146,6 +146,7 @@
     <ClCompile Include="src\chap03\src03_14.cpp" />
     <ClCompile Include="src\chap03\src03_15.cpp" />
     <ClCompile Include="src\chap03\src03_16.cpp" />
+    <ClCompile Include="src\chap03\src03_17.cpp" />
     <ClCompile Include="src\chap03\src3_1.cpp" />
     <ClCompile Include="src\chap03\src3_10.cpp" />
     <ClCompile Include="src\chap03\src3_2.cpp" />
