@@ -16,6 +16,9 @@
     <Filter Include="Resource Files\chap03">
       <UniqueIdentifier>{9ac947ad-92be-4f42-8664-60cd98a807a2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Resource Files\chap04">
+      <UniqueIdentifier>{91c44299-8480-4cd4-9fff-b4ad58f13dbf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="C++ProgramDesign3rd.cpp">
@@ -72,9 +75,15 @@
     <ClCompile Include="src\chap03\src03_17.cpp">
       <Filter>Resource Files\chap03</Filter>
     </ClCompile>
+    <ClCompile Include="chap03.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\chap3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C++ProgramDesign3rd.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
