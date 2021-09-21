@@ -84,6 +84,9 @@
     <ClCompile Include="src\ch04\src0401.cpp">
       <Filter>Resource Files\ch04</Filter>
     </ClCompile>
+    <ClCompile Include="src\ch04\src0402.cpp">
+      <Filter>Resource Files\ch04</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\chap3.h">
