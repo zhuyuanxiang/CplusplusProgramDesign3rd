@@ -29,23 +29,10 @@ void ch04()
 	//	4.3.1 构造函数：在对象被创建时利用特定的值构造对象，将对象初始化为一个特定的状态。在对象被创建时自动调用。
 	//	4.3.2 拷贝构造函数：特殊的构造函数，其形参是本类的对象的引用。作用是使用一个已经存在的对象（由拷贝构造函数的参数指定），去初始化同类的一个新对象。
 	//	默认的拷贝构造函数：把原对象的每个数据成员的值复制到新建立的对象中。
+	//	4.3.3 析构函数：用来完成对象被删除前的一些清理工作，在对象的生存期即将结束的时刻被自动调用的。
 	cout << "===>Ch04<===" << endl;
 
 	src0401(); cout << endl;
 	src0402(); cout << endl;
-	//src3_3(); cout << endl;
-	//src3_4(); cout << endl;
-	//src3_5(); cout << endl;
-	//src3_6(); cout << endl;
-	//src3_7(); cout << endl;
-	//src3_8(); cout << endl;
-	//src3_9(); cout << endl;
-	//src3_10(); cout << endl;
-	//src03_11(); cout << endl;
-	//src03_12(); cout << endl;
-	//src03_13(); cout << endl;
-	//src03_14(); cout << endl;
-	//src03_15(); cout << endl;
-	//src03_16(); cout << endl;
-	//src03_17(); cout << endl;
+	src0403(); cout << endl;
 }
