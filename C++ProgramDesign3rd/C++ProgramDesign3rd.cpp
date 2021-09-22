@@ -7,11 +7,13 @@ using namespace std;
 
 void chap03();
 void ch04();
+void ch05();
 
 int main()
 {
 	//chap03();
-	ch04();
+	//ch04();
+	ch05();
 }
 
 

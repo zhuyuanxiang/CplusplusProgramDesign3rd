@@ -19,6 +19,9 @@
     <Filter Include="Resource Files\ch04">
       <UniqueIdentifier>{91c44299-8480-4cd4-9fff-b4ad58f13dbf}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Resource Files\ch05">
+      <UniqueIdentifier>{f39b3c10-d201-403f-aaa7-1ce837945937}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="C++ProgramDesign3rd.cpp">
@@ -98,6 +101,15 @@
     </ClCompile>
     <ClCompile Include="src\ch04\Line.cpp">
       <Filter>Resource Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch04\src0405.cpp">
+      <Filter>Resource Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="ch05.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch05\src0501.cpp">
+      <Filter>Resource Files\ch05</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
