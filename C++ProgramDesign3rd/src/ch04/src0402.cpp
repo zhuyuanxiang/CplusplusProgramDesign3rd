@@ -1,37 +1,13 @@
 ﻿#include <iostream>
+#include "../../include/Point.h"
+
 using namespace std;
 
-class Point {
-public:
-	Point(int xx = 0, int yy = 0) {
-		X = xx;
-		Y = yy;
-		list = new char[20];
-		cout << "构造Point" << endl;
-	}	// 构造函数
-	Point(const Point&);									// 拷贝构造函数
-	~Point();	// 析构函数
-	int GetX() { return X; }
-	int GetY() { return Y; }
-private:
-	int X, Y;
-	char* list;
-};
-
-Point::~Point() {
-	cout << "Point类析构！" << endl;
-	delete[]list;	//	在类析构时，释放之前动态分配的内存
-}
-Point::Point(const Point& origial)
-{
-	X = origial.X; Y = origial.Y; list = new char[20];
-	cout << "拷贝构造函数被调用" << endl;
-}
-
-void fun1(Point p) {
+void fun1_02(Point p) {
 	cout << p.GetX() << endl;
 }
-Point fun2() {
+
+Point fun2_02() {
 	Point A(1, 2);
 	cout << A.GetX() << endl;
 	return A;
@@ -46,9 +22,9 @@ void src0402()
 	Point B(A);
 	cout << B.GetX() << endl;
 	cout << "2. 函数的形参是类的对象，调用函数时，需要复制一个对象" << endl;
-	fun1(B);
+	fun1_02(B);
 	cout << "3. 函数的返回值是类的对象，函数返回时，需要复制一个对象" << endl;
-	Point C = fun2();
+	Point C = fun2_02();
 	cout << C.GetX() << endl;
 	cout << "拷贝构造与析构案例结束。" << endl;
 }

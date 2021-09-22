@@ -2,9 +2,11 @@
 //
 
 #include <iostream>
-#include "C++ProgramDesign3rd.h"
 
 using namespace std;
+
+void chap03();
+void ch04();
 
 int main()
 {

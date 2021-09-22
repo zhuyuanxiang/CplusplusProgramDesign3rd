@@ -90,6 +90,15 @@
     <ClCompile Include="src\ch04\src0403.cpp">
       <Filter>Resource Files\ch04</Filter>
     </ClCompile>
+    <ClCompile Include="src\ch04\src0404.cpp">
+      <Filter>Resource Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch04\Point.cpp">
+      <Filter>Resource Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch04\Line.cpp">
+      <Filter>Resource Files\ch04</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\chap3.h">
@@ -99,6 +108,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="include\ch04.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Point.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Line.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

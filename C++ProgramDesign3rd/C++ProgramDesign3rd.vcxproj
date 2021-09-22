@@ -144,8 +144,11 @@
     <ClCompile Include="ch04.cpp">
       <DeploymentContent>false</DeploymentContent>
     </ClCompile>
+    <ClCompile Include="src\ch04\Line.cpp" />
+    <ClCompile Include="src\ch04\Point.cpp" />
     <ClCompile Include="src\ch04\src0402.cpp" />
     <ClCompile Include="src\ch04\src0403.cpp" />
+    <ClCompile Include="src\ch04\src0404.cpp" />
     <ClCompile Include="src\chap03\src03_11.cpp" />
     <ClCompile Include="src\chap03\src03_12.cpp" />
     <ClCompile Include="src\chap03\src03_13.cpp" />
@@ -169,6 +172,8 @@
     <ClInclude Include="C++ProgramDesign3rd.h" />
     <ClInclude Include="include\ch04.h" />
     <ClInclude Include="include\chap3.h" />
+    <ClInclude Include="include\Line.h" />
+    <ClInclude Include="include\Point.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
