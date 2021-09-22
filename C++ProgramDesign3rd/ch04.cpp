@@ -32,7 +32,7 @@ void ch04()
 	//	4.3.3 析构函数：用来完成对象被删除前的一些清理工作，在对象的生存期即将结束的时刻被自动调用的。
 	cout << "===>Ch04<===" << endl;
 
-	src0401(); cout << endl;
+	//src0401(); cout << endl;
 	src0402(); cout << endl;
-	src0403(); cout << endl;
+	//src0403(); cout << endl;
 }
