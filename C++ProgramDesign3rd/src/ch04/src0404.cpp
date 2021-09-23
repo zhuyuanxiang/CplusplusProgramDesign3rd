@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <cmath>
-#include "../../include/Point.h"
-#include "../../include/Line.h"
+#include "Point.h"
+#include "Line.h"
 
 using namespace std;
 

@@ -1,8 +1,7 @@
 ﻿#include <iostream>
+#include "include/ch05.h"
 
 using namespace std;
-
-void src0501();
 
 void ch05()
 {

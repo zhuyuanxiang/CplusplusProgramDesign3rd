@@ -1,13 +1,8 @@
 ﻿// C++ProgramDesign3rd.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-
-#include <iostream>
+#include "C++ProgramDesign3rd.h"
 
 using namespace std;
-
-void chap03();
-void ch04();
-void ch05();
 
 int main()
 {
