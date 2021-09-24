@@ -165,6 +165,7 @@
     <ClCompile Include="src\ch04\src0404.cpp" />
     <ClCompile Include="src\ch04\src0405.cpp" />
     <ClCompile Include="src\ch05\src0501.cpp" />
+    <ClCompile Include="src\ch05\src0502.cpp" />
     <ClCompile Include="src\chap03\src03_11.cpp" />
     <ClCompile Include="src\chap03\src03_12.cpp" />
     <ClCompile Include="src\chap03\src03_13.cpp" />
@@ -191,6 +192,7 @@
     <ClInclude Include="include\chap3.h" />
     <ClInclude Include="include\Line.h" />
     <ClInclude Include="include\Point.h" />
+    <ClInclude Include="include\Variable.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

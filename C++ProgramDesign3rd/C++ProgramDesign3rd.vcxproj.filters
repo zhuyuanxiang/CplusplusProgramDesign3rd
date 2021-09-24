@@ -111,6 +111,9 @@
     <ClCompile Include="src\ch05\src0501.cpp">
       <Filter>Resource Files\ch05</Filter>
     </ClCompile>
+    <ClCompile Include="src\ch05\src0502.cpp">
+      <Filter>Resource Files\ch05</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\chap3.h">
@@ -129,6 +132,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="include\ch05.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Variable.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
