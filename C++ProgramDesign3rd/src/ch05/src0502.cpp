@@ -1,12 +1,14 @@
 ﻿#include <iostream>
-#include <Variable.h>
 
 using namespace std;
+
+extern int i;
 
 void src0502() {
 	// P128，变量的生存期与可见性
 	cout << "--->" << "代码05-02（变量的生存期与可见性）" << "<---" << endl;
 
+	cout << "extern int i=" << i << endl;
 	static int a;
 	int b = -10, c = 0;
 	void other(void);
@@ -16,6 +18,7 @@ void src0502() {
 	cout << "---MAIN---\n";
 	cout << "i: " << i << ", a: " << a << ", b: " << b << ", c: " << c << endl;
 	i = i + 10; other();
+	cout << "extern int i=" << i << endl;
 }
 
 void other(void) {

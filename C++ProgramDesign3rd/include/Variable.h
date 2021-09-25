@@ -1,2 +1,2 @@
 ﻿#pragma once
-extern int i;
+int i = 10;
