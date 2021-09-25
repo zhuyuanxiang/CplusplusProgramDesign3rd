@@ -7,6 +7,7 @@ public:
 	int GetX();
 	int GetY();
 	int GetC();
+	static int sGetC();
 private:
 	int X, Y;
 	char* name;

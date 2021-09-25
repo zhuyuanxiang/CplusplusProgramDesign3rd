@@ -29,3 +29,5 @@ int Point::GetX() { return X; }
 int Point::GetY() { return Y; }
 
 int Point::GetC() { return countP; }
+
+int Point::sGetC() { return countP; }
