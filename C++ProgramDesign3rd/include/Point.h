@@ -8,6 +8,7 @@ public:
 	int GetY();
 	int GetC();
 	static int sGetC();
+	const int GetXY();
 	friend float fDist(Point& a, Point& b);	// 友元函数的声明
 private:
 	int X, Y;

@@ -6,7 +6,8 @@ using namespace std;
 Point::~Point() {
 	countP--;
 	cout << "Point类析构！" << endl;
-	delete[]name;	//	在类析构时，释放之前动态分配的内存
+	// ToDo：下面的释放总有问题
+	// delete[]name;	//	在类析构时，释放之前动态分配的内存
 }
 Point::Point(const Point& origial)
 {
@@ -31,6 +32,11 @@ int Point::GetY() { return Y; }
 int Point::GetC() { return countP; }
 
 int Point::sGetC() { return countP; }
+
+const int Point::GetXY()
+{
+	return X * 10 + Y;
+}
 
 float fDist(Point& p1, Point& p2)	// 友元函数的实现
 {
