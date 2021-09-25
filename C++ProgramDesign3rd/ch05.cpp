@@ -50,4 +50,5 @@ void ch05()
 	src0506(); cout << endl;
 	src0507(); cout << endl;
 	src0508(); cout << endl;
+	src0509(); cout << endl;
 }
