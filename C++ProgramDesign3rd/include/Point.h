@@ -6,7 +6,9 @@ public:
 	~Point();// 析构函数
 	int GetX();
 	int GetY();
+	int GetC();
 private:
 	int X, Y;
 	char* name;
+	static int countP;
 };
