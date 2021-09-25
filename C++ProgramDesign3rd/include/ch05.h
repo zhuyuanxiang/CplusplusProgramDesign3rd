@@ -6,6 +6,5 @@ void src0504();
 void src0505();
 void src0506();
 void src0507();
-void displayDoubles();
-void displayClasses();
 void src0508();
+void src0509();

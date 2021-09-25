@@ -1,7 +1,9 @@
 ﻿#include <iostream>
 #include <Point.h>
-#include "..\..\include\ch05.h"
 using namespace std;
+
+void displayClasses();
+void displayDoubles();
 
 void src0507()
 {
@@ -10,7 +12,6 @@ void src0507()
 
 	// const 可以用于重载函数，常量定义的函数必须用常量访问
 	displayClasses();
-
 	displayDoubles();
 }
 
