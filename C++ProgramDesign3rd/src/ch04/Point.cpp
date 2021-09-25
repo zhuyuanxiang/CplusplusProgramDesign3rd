@@ -31,3 +31,10 @@ int Point::GetY() { return Y; }
 int Point::GetC() { return countP; }
 
 int Point::sGetC() { return countP; }
+
+float fDist(Point& p1, Point& p2)	// 友元函数的实现
+{
+	double x = double(p1.X) - double(p2.X);
+	double y = double(p1.Y) - double(p2.Y);
+	return float(sqrt(x * x + y * y));
+}
