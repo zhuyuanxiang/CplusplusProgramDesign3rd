@@ -22,6 +22,9 @@
     <Filter Include="Resource Files\ch05">
       <UniqueIdentifier>{f39b3c10-d201-403f-aaa7-1ce837945937}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Resource Files\ch06">
+      <UniqueIdentifier>{f3867268-6ba5-4a2b-9832-0d56894d9030}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="C++ProgramDesign3rd.cpp">
@@ -138,6 +141,12 @@
     <ClCompile Include="src\ch05\src0509.cpp">
       <Filter>Resource Files\ch05</Filter>
     </ClCompile>
+    <ClCompile Include="ch06.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch06\src0601.cpp">
+      <Filter>Resource Files\ch06</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\chap3.h">
@@ -162,6 +171,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="include\Real.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ch06.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
