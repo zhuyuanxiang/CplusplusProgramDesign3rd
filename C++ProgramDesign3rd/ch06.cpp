@@ -27,4 +27,5 @@ void ch06()
 
 	src0601(); cout << endl;
 	src0602(); cout << endl;
+	src0603(); cout << endl;
 }

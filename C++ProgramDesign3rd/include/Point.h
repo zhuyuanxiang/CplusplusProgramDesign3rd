@@ -1,12 +1,18 @@
 ﻿#pragma once
+#if !defined(_POINT_H)
+#define _POINT_H
+#endif
+
 class Point {
 public:
-	Point(int xx = 0, int yy = 0);
+	Point();
+	Point(int xx, int yy);
 	Point(const Point& original);// 拷贝构造函数
 	~Point();// 析构函数
 	int GetX();
 	int GetY();
 	int GetC();
+	void Move(int x, int y);
 	static int sGetC();
 	const int GetXY();
 	friend float fDist(Point& a, Point& b);	// 友元函数的声明
