@@ -26,4 +26,5 @@ void ch06()
 	cout << "===>Ch06<===" << endl;
 
 	src0601(); cout << endl;
+	src0602(); cout << endl;
 }
