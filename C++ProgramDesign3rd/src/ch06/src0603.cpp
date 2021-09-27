@@ -11,7 +11,7 @@ void src0603() {
 	Point A[2] = { Point(3,4) };
 	for (int i = 0; i < 2; i++) {
 		cout << "Original A[" << i << "]=" << setw(5) << A[i].GetXY() << endl;
-		A[i].Move(i + 10, i + 20);
+		A[i].Move(float(i + 10), float(i + 20));
 		cout << "Moved A[" << i << "]=" << setw(5) << A[i].GetXY() << endl;
 	}
 }

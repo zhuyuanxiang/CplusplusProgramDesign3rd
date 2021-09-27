@@ -1,6 +1,7 @@
 ﻿// C++ProgramDesign3rd.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 #include "C++ProgramDesign3rd.h"
+#include "Variable.h"
 
 using namespace std;
 
@@ -8,7 +9,7 @@ int main()
 {
 	//chap03();
 	//ch04();
-	//ch05();
+	ch05();
 	ch06();
 }
 

@@ -1,2 +1,3 @@
 ﻿#pragma once
-int i = 10;
+extern int c_i = 10;
+extern const bool DEBUG = false;
