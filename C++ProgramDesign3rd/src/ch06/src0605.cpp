@@ -4,7 +4,7 @@
 using namespace std;
 
 void src0605() {
-	// P159，指针的声明、赋值与使用
+	// P171，指针的声明、赋值与使用
 	cout << "--->" << "代码06-05（指针的声明、赋值与使用）" << "<---" << endl;
 
 	int* i_pointer;
