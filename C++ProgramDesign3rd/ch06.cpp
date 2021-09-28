@@ -51,4 +51,5 @@ void ch06()
 	src0606(); cout << endl;
 	src0607(); cout << endl;
 	src0608(); cout << endl;
+	src0609(); cout << endl;
 }
