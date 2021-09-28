@@ -6,3 +6,4 @@ void src0604();
 void src0605();
 void src0606();
 void src0607();
+void src0608();
