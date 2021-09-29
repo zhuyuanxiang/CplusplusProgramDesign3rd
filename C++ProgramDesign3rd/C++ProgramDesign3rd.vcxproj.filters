@@ -171,6 +171,12 @@
     <ClCompile Include="src\ch06\src0609.cpp">
       <Filter>Resource Files\ch06</Filter>
     </ClCompile>
+    <ClCompile Include="src\ch06\src0610.cpp">
+      <Filter>Resource Files\ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch06\src0611.cpp">
+      <Filter>Resource Files\ch06</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\chap3.h">
