@@ -58,7 +58,10 @@ void Point::Move(float x, float y)
 	X += x; Y += y;
 }
 
-int Point::sGetC() { return countP; }
+int Point::sGetC() {
+	cout << "Object id\t=\t" << countP << endl;
+	return countP;
+}
 
 const float Point::GetXY()
 {
