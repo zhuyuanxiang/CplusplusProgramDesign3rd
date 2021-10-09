@@ -186,8 +186,26 @@
     <ClCompile Include="src\ch06\src0614.cpp">
       <Filter>Resource Files\ch06</Filter>
     </ClCompile>
+    <ClCompile Include="src\ch06\src0616.cpp">
+      <Filter>Resource Files\ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch06\src0617.cpp">
+      <Filter>Resource Files\ch06</Filter>
+    </ClCompile>
     <ClCompile Include="src\ch06\src0615.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Resource Files\ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch06\src0618.cpp">
+      <Filter>Resource Files\ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch06\src0619.cpp">
+      <Filter>Resource Files\ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch06\ArrayOfPoints.cpp">
+      <Filter>Resource Files\ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch06\src0620.cpp">
+      <Filter>Resource Files\ch06</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -216,6 +234,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="include\ch06.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ArrayOfPoints.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

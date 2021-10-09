@@ -175,6 +175,7 @@
     <ClCompile Include="src\ch05\src0507.cpp" />
     <ClCompile Include="src\ch05\src0508.cpp" />
     <ClCompile Include="src\ch05\src0509.cpp" />
+    <ClCompile Include="src\ch06\ArrayOfPoints.cpp" />
     <ClCompile Include="src\ch06\src0601.cpp" />
     <ClCompile Include="src\ch06\src0602.cpp" />
     <ClCompile Include="src\ch06\src0603.cpp" />
@@ -190,6 +191,11 @@
     <ClCompile Include="src\ch06\src0613.cpp" />
     <ClCompile Include="src\ch06\src0614.cpp" />
     <ClCompile Include="src\ch06\src0615.cpp" />
+    <ClCompile Include="src\ch06\src0616.cpp" />
+    <ClCompile Include="src\ch06\src0617.cpp" />
+    <ClCompile Include="src\ch06\src0618.cpp" />
+    <ClCompile Include="src\ch06\src0619.cpp" />
+    <ClCompile Include="src\ch06\src0620.cpp" />
     <ClCompile Include="src\chap03\src03_11.cpp" />
     <ClCompile Include="src\chap03\src03_12.cpp" />
     <ClCompile Include="src\chap03\src03_13.cpp" />
@@ -211,6 +217,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C++ProgramDesign3rd.h" />
+    <ClInclude Include="include\ArrayOfPoints.h" />
     <ClInclude Include="include\ch04.h" />
     <ClInclude Include="include\ch05.h" />
     <ClInclude Include="include\ch06.h" />
