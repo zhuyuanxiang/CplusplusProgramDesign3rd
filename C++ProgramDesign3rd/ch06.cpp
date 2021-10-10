@@ -67,7 +67,6 @@ void ch06()
 	//	2. 用字符数组存放字符串
 	//	6.5.2 string 类
 
-
 	cout << "===>Ch06<===" << endl;
 
 	src0601(); cout << endl;
