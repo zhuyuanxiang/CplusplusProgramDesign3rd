@@ -19,3 +19,6 @@ void src0617();
 void src0618();
 void src0619();
 void src0620();
+void src0622();
+void src0623();
+void src0624();

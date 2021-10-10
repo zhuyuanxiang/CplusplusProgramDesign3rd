@@ -60,6 +60,12 @@ void ch06()
 	//		1）动态内存分配函数：void * malloc(size);
 	//		2）动态内存释放函数：void free(void* memblock);
 	//6.4 深拷贝和浅拷贝
+	//6.5 字符串：用一对双引号包括起来的字符序列。
+	// 在内存中的存放形式是：按串中字符的排序次序顺序存放，每个字符占一个字节，并在末尾添加 '\0' 作为结尾标记。
+	//	6.5.1 用字符数组存储和处理字符串
+	//	1. 字符数组的声明与引用
+	//	2. 用字符数组存放字符串
+	//	6.5.2 string 类
 
 
 	cout << "===>Ch06<===" << endl;
@@ -83,5 +89,8 @@ void ch06()
 	src0617(); cout << endl;
 	//src0618(); cout << endl;
 	src0619(); cout << endl;
-	src0620(); cout << endl;
+	//src0620(); cout << endl;
+	src0622(); cout << endl;
+	src0623(); cout << endl;
+	src0624(); cout << endl;
 }
