@@ -25,6 +25,12 @@
     <Filter Include="Resource Files\ch06">
       <UniqueIdentifier>{f3867268-6ba5-4a2b-9832-0d56894d9030}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Resource Files\ch07">
+      <UniqueIdentifier>{330ad550-7d3a-4c19-9dd5-0e9a48c29100}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\ch08">
+      <UniqueIdentifier>{48a1267d-0bfe-4480-847b-45fa10aa87ab}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="C++ProgramDesign3rd.cpp">
@@ -216,6 +222,27 @@
     <ClCompile Include="src\ch06\src0624.cpp">
       <Filter>Resource Files\ch06</Filter>
     </ClCompile>
+    <ClCompile Include="ch07.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch08\src0801.cpp">
+      <Filter>Resource Files\ch08</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch08\complex.cpp">
+      <Filter>Resource Files\ch08</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch08\src0802.cpp">
+      <Filter>Resource Files\ch08</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch08\Clock.cpp">
+      <Filter>Resource Files\ch08</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch08\src0803.cpp">
+      <Filter>Resource Files\ch08</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\chap3.h">
@@ -246,6 +273,18 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="include\ArrayOfPoints.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ch07.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ch08.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\complex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Clock.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

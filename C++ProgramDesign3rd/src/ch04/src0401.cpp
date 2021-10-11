@@ -1,19 +1,12 @@
 ﻿#include <iostream>
+#include "Clock.h"
+
 using namespace std;
 
-class Clock {
-public:
-	void SetTime(int NewH = 0, int NewM = 0, int NewS = 0);
-	void ShowTime();
-private:
-	int Hour, Minute, Second;
-};
-void Clock::SetTime(int NewH, int NewM, int NewS) {
-	Hour = NewH; Minute = NewM; Second = NewS;
-}
-inline void Clock::ShowTime() {
-	cout << Hour << ":" << Minute << ":" << Second << endl;
-}
+// 内嵌实现必须与调用函数在同代码文件中。
+//inline void Clock::ShowTime() {
+//	cout << Hour << ":" << Minute << ":" << Second << endl;
+//}
 
 void src0401()
 {

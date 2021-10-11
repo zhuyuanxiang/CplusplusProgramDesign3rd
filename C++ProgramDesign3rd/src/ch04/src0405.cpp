@@ -40,12 +40,14 @@ void Barney::method()
 
 Fred::Fred()
 {
-	y = new Barney();
+	// Fred 与 Barney 不能循环生成，否则会导致内存耗尽
+	// y = new Barney();
+	y = NULL;
 }
 
 Fred::~Fred()
 {
-	delete y;
+	// delete y;
 }
 
 void Fred::yabbaDabbaDo()

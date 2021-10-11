@@ -155,6 +155,8 @@
     <ClCompile Include="C++ProgramDesign3rd.cpp" />
     <ClCompile Include="ch05.cpp" />
     <ClCompile Include="ch06.cpp" />
+    <ClCompile Include="ch07.cpp" />
+    <ClCompile Include="ch08.cpp" />
     <ClCompile Include="chap03.cpp" />
     <ClCompile Include="ch04.cpp">
       <DeploymentContent>false</DeploymentContent>
@@ -199,6 +201,11 @@
     <ClCompile Include="src\ch06\src0622.cpp" />
     <ClCompile Include="src\ch06\src0623.cpp" />
     <ClCompile Include="src\ch06\src0624.cpp" />
+    <ClCompile Include="src\ch08\Clock.cpp" />
+    <ClCompile Include="src\ch08\complex.cpp" />
+    <ClCompile Include="src\ch08\src0801.cpp" />
+    <ClCompile Include="src\ch08\src0802.cpp" />
+    <ClCompile Include="src\ch08\src0803.cpp" />
     <ClCompile Include="src\chap03\src03_11.cpp" />
     <ClCompile Include="src\chap03\src03_12.cpp" />
     <ClCompile Include="src\chap03\src03_13.cpp" />
@@ -224,7 +231,11 @@
     <ClInclude Include="include\ch04.h" />
     <ClInclude Include="include\ch05.h" />
     <ClInclude Include="include\ch06.h" />
+    <ClInclude Include="include\ch07.h" />
+    <ClInclude Include="include\ch08.h" />
     <ClInclude Include="include\chap3.h" />
+    <ClInclude Include="include\Clock.h" />
+    <ClInclude Include="include\complex.h" />
     <ClInclude Include="include\Line.h" />
     <ClInclude Include="include\Point.h" />
     <ClInclude Include="include\Real.h" />

@@ -41,8 +41,8 @@ void ch04()
 	cout << "===>Ch04<===" << endl;
 
 	src0401(); cout << endl;
-	src0402(); cout << endl;
-	src0403(); cout << endl;
-	src0404(); cout << endl;
-	src0405(); cout << endl;
+	//src0402(); cout << endl;
+	//src0403(); cout << endl;
+	//src0404(); cout << endl;
+	//src0405(); cout << endl;
 }
