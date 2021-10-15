@@ -31,6 +31,9 @@
     <Filter Include="Resource Files\ch08">
       <UniqueIdentifier>{48a1267d-0bfe-4480-847b-45fa10aa87ab}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Resource Files\ch09">
+      <UniqueIdentifier>{08e15b0a-07de-416d-a083-02ccbf066fdb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="C++ProgramDesign3rd.cpp">
@@ -243,6 +246,18 @@
     <ClCompile Include="src\ch08\src0803.cpp">
       <Filter>Resource Files\ch08</Filter>
     </ClCompile>
+    <ClCompile Include="ch09.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch09\src0901.cpp">
+      <Filter>Resource Files\ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch09\src0902.cpp">
+      <Filter>Resource Files\ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch09\src0903.cpp">
+      <Filter>Resource Files\ch09</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\chap3.h">
@@ -285,6 +300,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="include\Clock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ch09.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ch0903.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

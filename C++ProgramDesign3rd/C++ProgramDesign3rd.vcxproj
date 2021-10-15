@@ -157,6 +157,7 @@
     <ClCompile Include="ch06.cpp" />
     <ClCompile Include="ch07.cpp" />
     <ClCompile Include="ch08.cpp" />
+    <ClCompile Include="ch09.cpp" />
     <ClCompile Include="chap03.cpp" />
     <ClCompile Include="ch04.cpp">
       <DeploymentContent>false</DeploymentContent>
@@ -206,6 +207,9 @@
     <ClCompile Include="src\ch08\src0801.cpp" />
     <ClCompile Include="src\ch08\src0802.cpp" />
     <ClCompile Include="src\ch08\src0803.cpp" />
+    <ClCompile Include="src\ch09\src0901.cpp" />
+    <ClCompile Include="src\ch09\src0902.cpp" />
+    <ClCompile Include="src\ch09\src0903.cpp" />
     <ClCompile Include="src\chap03\src03_11.cpp" />
     <ClCompile Include="src\chap03\src03_12.cpp" />
     <ClCompile Include="src\chap03\src03_13.cpp" />
@@ -233,6 +237,8 @@
     <ClInclude Include="include\ch06.h" />
     <ClInclude Include="include\ch07.h" />
     <ClInclude Include="include\ch08.h" />
+    <ClInclude Include="include\ch09.h" />
+    <ClInclude Include="include\ch0903.h" />
     <ClInclude Include="include\chap3.h" />
     <ClInclude Include="include\Clock.h" />
     <ClInclude Include="include\complex.h" />
