@@ -158,10 +158,12 @@
     <ClCompile Include="ch07.cpp" />
     <ClCompile Include="ch08.cpp" />
     <ClCompile Include="ch09.cpp" />
+    <ClCompile Include="ch10.cpp" />
     <ClCompile Include="chap03.cpp" />
     <ClCompile Include="ch04.cpp">
       <DeploymentContent>false</DeploymentContent>
     </ClCompile>
+    <ClCompile Include="include\Calculator.cpp" />
     <ClCompile Include="src\ch04\Line.cpp" />
     <ClCompile Include="src\ch04\Point.cpp" />
     <ClCompile Include="src\ch04\src0402.cpp" />
@@ -207,9 +209,14 @@
     <ClCompile Include="src\ch08\src0801.cpp" />
     <ClCompile Include="src\ch08\src0802.cpp" />
     <ClCompile Include="src\ch08\src0803.cpp" />
+    <ClCompile Include="src\ch09\Calculator.cpp" />
     <ClCompile Include="src\ch09\src0901.cpp" />
     <ClCompile Include="src\ch09\src0902.cpp" />
     <ClCompile Include="src\ch09\src0903.cpp" />
+    <ClCompile Include="src\ch09\src0909.cpp" />
+    <ClCompile Include="src\ch10\src1001.cpp" />
+    <ClCompile Include="src\ch10\src1002.cpp" />
+    <ClCompile Include="src\ch10\src1003.cpp" />
     <ClCompile Include="src\chap03\src03_11.cpp" />
     <ClCompile Include="src\chap03\src03_12.cpp" />
     <ClCompile Include="src\chap03\src03_13.cpp" />
@@ -232,19 +239,27 @@
   <ItemGroup>
     <ClInclude Include="C++ProgramDesign3rd.h" />
     <ClInclude Include="include\ArrayOfPoints.h" />
+    <ClInclude Include="include\Calculator.h" />
     <ClInclude Include="include\ch04.h" />
     <ClInclude Include="include\ch05.h" />
     <ClInclude Include="include\ch06.h" />
     <ClInclude Include="include\ch07.h" />
     <ClInclude Include="include\ch08.h" />
     <ClInclude Include="include\ch09.h" />
-    <ClInclude Include="include\ch0903.h" />
+    <ClInclude Include="include\Array.h" />
+    <ClInclude Include="include\ch10.h" />
     <ClInclude Include="include\chap3.h" />
     <ClInclude Include="include\Clock.h" />
     <ClInclude Include="include\complex.h" />
+    <ClInclude Include="include\LinkedList.h" />
+    <ClInclude Include="include\Node.h" />
     <ClInclude Include="include\Line.h" />
     <ClInclude Include="include\Point.h" />
+    <ClInclude Include="include\Queue.h" />
     <ClInclude Include="include\Real.h" />
+    <ClInclude Include="include\Search.h" />
+    <ClInclude Include="include\Sorting.h" />
+    <ClInclude Include="include\Stack.h" />
     <ClInclude Include="include\Variable.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

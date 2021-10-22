@@ -34,6 +34,9 @@
     <Filter Include="Resource Files\ch09">
       <UniqueIdentifier>{08e15b0a-07de-416d-a083-02ccbf066fdb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Resource Files\ch10">
+      <UniqueIdentifier>{53b7d6a1-7511-45f5-9c6c-bcdb0f2a4681}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="C++ProgramDesign3rd.cpp">
@@ -258,6 +261,27 @@
     <ClCompile Include="src\ch09\src0903.cpp">
       <Filter>Resource Files\ch09</Filter>
     </ClCompile>
+    <ClCompile Include="include\Calculator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch09\Calculator.cpp">
+      <Filter>Resource Files\ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch09\src0909.cpp">
+      <Filter>Resource Files\ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="ch10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch10\src1001.cpp">
+      <Filter>Resource Files\ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch10\src1002.cpp">
+      <Filter>Resource Files\ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch10\src1003.cpp">
+      <Filter>Resource Files\ch10</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\chap3.h">
@@ -305,7 +329,31 @@
     <ClInclude Include="include\ch09.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="include\ch0903.h">
+    <ClInclude Include="include\Array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Node.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\LinkedList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Stack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Calculator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Queue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Sorting.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Search.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ch10.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
