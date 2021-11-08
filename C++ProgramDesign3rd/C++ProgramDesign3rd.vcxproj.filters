@@ -13,29 +13,29 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Resource Files\chap03">
-      <UniqueIdentifier>{9ac947ad-92be-4f42-8664-60cd98a807a2}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Resource Files\ch04">
+    <Filter Include="Source Files\ch04">
       <UniqueIdentifier>{91c44299-8480-4cd4-9fff-b4ad58f13dbf}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Resource Files\ch05">
+    <Filter Include="Source Files\ch05">
       <UniqueIdentifier>{f39b3c10-d201-403f-aaa7-1ce837945937}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Resource Files\ch06">
+    <Filter Include="Source Files\ch06">
       <UniqueIdentifier>{f3867268-6ba5-4a2b-9832-0d56894d9030}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Resource Files\ch07">
+    <Filter Include="Source Files\ch07">
       <UniqueIdentifier>{330ad550-7d3a-4c19-9dd5-0e9a48c29100}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Resource Files\ch08">
+    <Filter Include="Source Files\ch08">
       <UniqueIdentifier>{48a1267d-0bfe-4480-847b-45fa10aa87ab}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Resource Files\ch09">
+    <Filter Include="Source Files\ch09">
       <UniqueIdentifier>{08e15b0a-07de-416d-a083-02ccbf066fdb}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Resource Files\ch10">
+    <Filter Include="Source Files\ch10">
       <UniqueIdentifier>{53b7d6a1-7511-45f5-9c6c-bcdb0f2a4681}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\chap03">
+      <UniqueIdentifier>{9ac947ad-92be-4f42-8664-60cd98a807a2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -43,55 +43,55 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\chap03\src3_1.cpp">
-      <Filter>Resource Files\chap03</Filter>
+      <Filter>Source Files\chap03</Filter>
     </ClCompile>
     <ClCompile Include="src\chap03\src3_2.cpp">
-      <Filter>Resource Files\chap03</Filter>
+      <Filter>Source Files\chap03</Filter>
     </ClCompile>
     <ClCompile Include="src\chap03\src3_3.cpp">
-      <Filter>Resource Files\chap03</Filter>
+      <Filter>Source Files\chap03</Filter>
     </ClCompile>
     <ClCompile Include="src\chap03\src3_4.cpp">
-      <Filter>Resource Files\chap03</Filter>
+      <Filter>Source Files\chap03</Filter>
     </ClCompile>
     <ClCompile Include="src\chap03\src3_5.cpp">
-      <Filter>Resource Files\chap03</Filter>
+      <Filter>Source Files\chap03</Filter>
     </ClCompile>
     <ClCompile Include="src\chap03\src3_6.cpp">
-      <Filter>Resource Files\chap03</Filter>
+      <Filter>Source Files\chap03</Filter>
     </ClCompile>
     <ClCompile Include="src\chap03\src3_7.cpp">
-      <Filter>Resource Files\chap03</Filter>
+      <Filter>Source Files\chap03</Filter>
     </ClCompile>
     <ClCompile Include="src\chap03\src3_8.cpp">
-      <Filter>Resource Files\chap03</Filter>
+      <Filter>Source Files\chap03</Filter>
     </ClCompile>
     <ClCompile Include="src\chap03\src3_9.cpp">
-      <Filter>Resource Files\chap03</Filter>
+      <Filter>Source Files\chap03</Filter>
     </ClCompile>
     <ClCompile Include="src\chap03\src3_10.cpp">
-      <Filter>Resource Files\chap03</Filter>
+      <Filter>Source Files\chap03</Filter>
     </ClCompile>
     <ClCompile Include="src\chap03\src03_11.cpp">
-      <Filter>Resource Files\chap03</Filter>
+      <Filter>Source Files\chap03</Filter>
     </ClCompile>
     <ClCompile Include="src\chap03\src03_12.cpp">
-      <Filter>Resource Files\chap03</Filter>
+      <Filter>Source Files\chap03</Filter>
     </ClCompile>
     <ClCompile Include="src\chap03\src03_13.cpp">
-      <Filter>Resource Files\chap03</Filter>
+      <Filter>Source Files\chap03</Filter>
     </ClCompile>
     <ClCompile Include="src\chap03\src03_14.cpp">
-      <Filter>Resource Files\chap03</Filter>
+      <Filter>Source Files\chap03</Filter>
     </ClCompile>
     <ClCompile Include="src\chap03\src03_15.cpp">
-      <Filter>Resource Files\chap03</Filter>
+      <Filter>Source Files\chap03</Filter>
     </ClCompile>
     <ClCompile Include="src\chap03\src03_16.cpp">
-      <Filter>Resource Files\chap03</Filter>
+      <Filter>Source Files\chap03</Filter>
     </ClCompile>
     <ClCompile Include="src\chap03\src03_17.cpp">
-      <Filter>Resource Files\chap03</Filter>
+      <Filter>Source Files\chap03</Filter>
     </ClCompile>
     <ClCompile Include="chap03.cpp">
       <Filter>Source Files</Filter>
@@ -100,133 +100,133 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\ch04\src0401.cpp">
-      <Filter>Resource Files\ch04</Filter>
+      <Filter>Source Files\ch04</Filter>
     </ClCompile>
     <ClCompile Include="src\ch04\src0402.cpp">
-      <Filter>Resource Files\ch04</Filter>
+      <Filter>Source Files\ch04</Filter>
     </ClCompile>
     <ClCompile Include="src\ch04\src0403.cpp">
-      <Filter>Resource Files\ch04</Filter>
+      <Filter>Source Files\ch04</Filter>
     </ClCompile>
     <ClCompile Include="src\ch04\src0404.cpp">
-      <Filter>Resource Files\ch04</Filter>
+      <Filter>Source Files\ch04</Filter>
     </ClCompile>
     <ClCompile Include="src\ch04\Point.cpp">
-      <Filter>Resource Files\ch04</Filter>
+      <Filter>Source Files\ch04</Filter>
     </ClCompile>
     <ClCompile Include="src\ch04\Line.cpp">
-      <Filter>Resource Files\ch04</Filter>
+      <Filter>Source Files\ch04</Filter>
     </ClCompile>
     <ClCompile Include="src\ch04\src0405.cpp">
-      <Filter>Resource Files\ch04</Filter>
+      <Filter>Source Files\ch04</Filter>
     </ClCompile>
     <ClCompile Include="ch05.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\ch05\src0501.cpp">
-      <Filter>Resource Files\ch05</Filter>
+      <Filter>Source Files\ch05</Filter>
     </ClCompile>
     <ClCompile Include="src\ch05\src0502.cpp">
-      <Filter>Resource Files\ch05</Filter>
+      <Filter>Source Files\ch05</Filter>
     </ClCompile>
     <ClCompile Include="src\ch05\src0503.cpp">
-      <Filter>Resource Files\ch05</Filter>
+      <Filter>Source Files\ch05</Filter>
     </ClCompile>
     <ClCompile Include="src\ch05\src0504.cpp">
-      <Filter>Resource Files\ch05</Filter>
+      <Filter>Source Files\ch05</Filter>
     </ClCompile>
     <ClCompile Include="src\ch05\src0505.cpp">
-      <Filter>Resource Files\ch05</Filter>
+      <Filter>Source Files\ch05</Filter>
     </ClCompile>
     <ClCompile Include="src\ch05\src0506.cpp">
-      <Filter>Resource Files\ch05</Filter>
+      <Filter>Source Files\ch05</Filter>
     </ClCompile>
     <ClCompile Include="src\ch05\src0507.cpp">
-      <Filter>Resource Files\ch05</Filter>
+      <Filter>Source Files\ch05</Filter>
     </ClCompile>
     <ClCompile Include="src\ch05\src0508.cpp">
-      <Filter>Resource Files\ch05</Filter>
+      <Filter>Source Files\ch05</Filter>
     </ClCompile>
     <ClCompile Include="src\ch05\Real.cpp">
-      <Filter>Resource Files\ch05</Filter>
+      <Filter>Source Files\ch05</Filter>
     </ClCompile>
     <ClCompile Include="src\ch05\src0509.cpp">
-      <Filter>Resource Files\ch05</Filter>
+      <Filter>Source Files\ch05</Filter>
     </ClCompile>
     <ClCompile Include="ch06.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0601.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0602.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0603.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0604.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0605.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0606.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0607.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0608.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0609.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0610.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0611.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0612.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0613.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0614.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0616.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0617.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0615.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0618.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0619.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\ArrayOfPoints.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0620.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0622.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0623.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0624.cpp">
-      <Filter>Resource Files\ch06</Filter>
+      <Filter>Source Files\ch06</Filter>
     </ClCompile>
     <ClCompile Include="ch07.cpp">
       <Filter>Source Files</Filter>
@@ -235,52 +235,58 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\ch08\src0801.cpp">
-      <Filter>Resource Files\ch08</Filter>
+      <Filter>Source Files\ch08</Filter>
     </ClCompile>
     <ClCompile Include="src\ch08\complex.cpp">
-      <Filter>Resource Files\ch08</Filter>
+      <Filter>Source Files\ch08</Filter>
     </ClCompile>
     <ClCompile Include="src\ch08\src0802.cpp">
-      <Filter>Resource Files\ch08</Filter>
+      <Filter>Source Files\ch08</Filter>
     </ClCompile>
     <ClCompile Include="src\ch08\Clock.cpp">
-      <Filter>Resource Files\ch08</Filter>
+      <Filter>Source Files\ch08</Filter>
     </ClCompile>
     <ClCompile Include="src\ch08\src0803.cpp">
-      <Filter>Resource Files\ch08</Filter>
+      <Filter>Source Files\ch08</Filter>
     </ClCompile>
     <ClCompile Include="ch09.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\ch09\src0901.cpp">
-      <Filter>Resource Files\ch09</Filter>
+      <Filter>Source Files\ch09</Filter>
     </ClCompile>
     <ClCompile Include="src\ch09\src0902.cpp">
-      <Filter>Resource Files\ch09</Filter>
+      <Filter>Source Files\ch09</Filter>
     </ClCompile>
     <ClCompile Include="src\ch09\src0903.cpp">
-      <Filter>Resource Files\ch09</Filter>
+      <Filter>Source Files\ch09</Filter>
     </ClCompile>
     <ClCompile Include="include\Calculator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\ch09\Calculator.cpp">
-      <Filter>Resource Files\ch09</Filter>
+      <Filter>Source Files\ch09</Filter>
     </ClCompile>
     <ClCompile Include="src\ch09\src0909.cpp">
-      <Filter>Resource Files\ch09</Filter>
+      <Filter>Source Files\ch09</Filter>
     </ClCompile>
     <ClCompile Include="ch10.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\ch10\src1001.cpp">
-      <Filter>Resource Files\ch10</Filter>
+      <Filter>Source Files\ch10</Filter>
     </ClCompile>
     <ClCompile Include="src\ch10\src1002.cpp">
-      <Filter>Resource Files\ch10</Filter>
+      <Filter>Source Files\ch10</Filter>
     </ClCompile>
     <ClCompile Include="src\ch10\src1003.cpp">
-      <Filter>Resource Files\ch10</Filter>
+      <Filter>Source Files\ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch10\src1004.cpp">
+      <Filter>Source Files\ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch10\src1005.cpp">
+      <Filter>Source Files\ch10</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
