@@ -261,9 +261,6 @@
     <ClCompile Include="src\ch09\src0903.cpp">
       <Filter>Source Files\ch09</Filter>
     </ClCompile>
-    <ClCompile Include="include\Calculator.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="src\ch09\Calculator.cpp">
       <Filter>Source Files\ch09</Filter>
     </ClCompile>
@@ -286,6 +283,18 @@
       <Filter>Source Files\ch10</Filter>
     </ClCompile>
     <ClCompile Include="src\ch10\src1005.cpp">
+      <Filter>Source Files\ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch10\src1006.cpp">
+      <Filter>Source Files\ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="src1007.cpp">
+      <Filter>Source Files\ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="ch10\src1008.cpp">
+      <Filter>Source Files\ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="ch10\src1009.cpp">
       <Filter>Source Files\ch10</Filter>
     </ClCompile>
   </ItemGroup>

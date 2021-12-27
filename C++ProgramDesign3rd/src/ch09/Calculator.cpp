@@ -1,4 +1,25 @@
-﻿#include "..\..\include\Calculator.h"
+﻿//#include "..\..\include\Calculator.h"
+#include <iostream>
+#include <cmath>
+#include <cstdlib>
+#include <cstring>
+
+using namespace std;
+
+#include "Stack.h"
+
+class Calculator
+{
+private:
+	Stack<int> S;
+	void Enter(int num);
+	bool GetTwoOperands(int& opnd1, int& opnd2);
+	void Compute(char op);
+public:
+	Calculator(void);
+	void Run(void);
+	void Clear(void);
+};
 
 void Calculator::Enter(int num)
 {
@@ -52,13 +73,13 @@ void Calculator::Compute(char op)
 				S.Push(operand2 / operand1);
 			break;
 		case'^':
-			S.Push(pow(operand2, operand1));
+			S.Push(int(pow(operand2, operand1)));
 			break;
 		default:
 			cerr << "Wrong operand!" << endl;
 			exit(1);
 		}
-		cout << '=' << S.Peek() << ' ';	// 输出本次运算结果
+		cout << "=" << S.Peek() << " ";	// 输出本次运算结果
 	}
 	else
 		S.ClearStack();

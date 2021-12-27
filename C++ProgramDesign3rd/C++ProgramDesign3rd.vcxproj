@@ -159,11 +159,13 @@
     <ClCompile Include="ch08.cpp" />
     <ClCompile Include="ch09.cpp" />
     <ClCompile Include="ch10.cpp" />
+    <ClCompile Include="ch10\src1008.cpp" />
+    <ClCompile Include="ch10\src1009.cpp" />
     <ClCompile Include="chap03.cpp" />
     <ClCompile Include="ch04.cpp">
       <DeploymentContent>false</DeploymentContent>
     </ClCompile>
-    <ClCompile Include="include\Calculator.cpp" />
+    <ClCompile Include="src1007.cpp" />
     <ClCompile Include="src\ch04\Line.cpp" />
     <ClCompile Include="src\ch04\Point.cpp" />
     <ClCompile Include="src\ch04\src0402.cpp" />
@@ -219,6 +221,7 @@
     <ClCompile Include="src\ch10\src1003.cpp" />
     <ClCompile Include="src\ch10\src1004.cpp" />
     <ClCompile Include="src\ch10\src1005.cpp" />
+    <ClCompile Include="src\ch10\src1006.cpp" />
     <ClCompile Include="src\chap03\src03_11.cpp" />
     <ClCompile Include="src\chap03\src03_12.cpp" />
     <ClCompile Include="src\chap03\src03_13.cpp" />

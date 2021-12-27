@@ -75,6 +75,30 @@ void ch10()
 	//				- 后插入：将一个元素追加到容器尾部，用于(vector, deque, list, string)
 	//				- 前插入：将一个元素追加到容器头部，用于(deque)
 	//				- 普通插入：根据容呼插入位置进行初始化，适用于所有容器
+	//10.4 标准C++库中的算法
+	//		STL标准模板库中的算法大致可以分为4类：
+	//		1. 非可变序列算法：对容器进行操作时不会改变容器的内容；
+	//		2. 可变序列算法：对容器进行操作时会改变容器的内容；
+	//		3. 排序相关的算法：包括--排序算法、合并算法、二分查找算法、有序序列的集合操作算法等
+	//		4. 通用数值算法：（数量较少）
+	//	10.4.1 STL通用步进的调用形式（？）
+	//	10.4.2 不可变序列算法（表10 - 4，P350）
+	//	10.4.3 可变序列算法（表10 - 5，P352）
+	//		对序列容器的操作：复制（copy）、生成（generate）、删除（remove）、替换（replace）、
+	//		倒序（reverse）、旋转（rotate）、交换（swap）、变换（transform）、
+	//		分割（partition）、剔除（unique）、填充（fill）、洗牌（shuffle）
+	//	10.4.4 排序相关算法
+	//		- 4个排序算法：sort, partial_sort, partial_sort_copy, stable_sort
+	//		- 4个二分查找算法：binary_search, lower_bound, uper_bound, equal_range
+	//		- 2个用于合并有序区间的通用算法： merge, inplace_merge
+	//		- 4个最值算法：min, max, min_element, max_element
+	//		- 3个排列相关算法：lexicographical_compare, next_permutation, prev_permutation
+	//		- 5个有序序列上的集合操作：includes, set_union, set_intersection, set_difference, set_symmetric_difference
+	//		- 4个堆上的操作：make_heap, pop_heap, push_heap, sort_heap
+	//		- nth_element：按特定规则重排元素
+	//	10.4.5 数值算法
+	//		头文件（numeric）：accumulate, partial_sum, adjacent_difference, inner_product
+
 	cout << "===>Ch10<===" << endl;
 
 	//src1001(); cout << endl;
@@ -83,4 +107,7 @@ void ch10()
 	src1004(); cout << endl;
 	src1005(); cout << endl;
 	src1006(); cout << endl;
+	src1007(); cout << endl;
+	src1008(); cout << endl;
+	src1009(); cout << endl;
 }
