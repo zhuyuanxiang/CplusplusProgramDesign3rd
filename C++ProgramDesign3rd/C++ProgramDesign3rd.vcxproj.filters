@@ -288,13 +288,31 @@
     <ClCompile Include="src\ch10\src1006.cpp">
       <Filter>Source Files\ch10</Filter>
     </ClCompile>
-    <ClCompile Include="src1007.cpp">
+    <ClCompile Include="src\ch10\src1007.cpp">
       <Filter>Source Files\ch10</Filter>
     </ClCompile>
-    <ClCompile Include="ch10\src1008.cpp">
+    <ClCompile Include="src\ch10\src1008.cpp">
       <Filter>Source Files\ch10</Filter>
     </ClCompile>
-    <ClCompile Include="ch10\src1009.cpp">
+    <ClCompile Include="src\ch10\src1009.cpp">
+      <Filter>Source Files\ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch10\src1010.cpp">
+      <Filter>Source Files\ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch10\src1011.cpp">
+      <Filter>Source Files\ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch10\src1012.cpp">
+      <Filter>Source Files\ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch10\src1013.cpp">
+      <Filter>Source Files\ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch10\src1014.cpp">
+      <Filter>Source Files\ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch10\src1015.cpp">
       <Filter>Source Files\ch10</Filter>
     </ClCompile>
   </ItemGroup>

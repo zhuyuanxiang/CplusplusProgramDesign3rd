@@ -98,16 +98,42 @@ void ch10()
 	//		- nth_element：按特定规则重排元素
 	//	10.4.5 数值算法
 	//		头文件（numeric）：accumulate, partial_sum, adjacent_difference, inner_product
+	//10.5 函数对象
+	//	1. 函数对象：STL提供的第四类主要组件
+	//	函数对象：就是一个行为类似函数的对象，可以不需要参数，可以带有若干参数，功能是获取一个值，或者改变操作的状态
+	//	任何普通的函数和任何重建了调用运算符 operator() 的类的对象都满足函数对象的特征
+	//		P363，表10-8：标准库中的STL函数对象
+	//		- plus<T>：输入两个类型为T的操作数 x 与 y，返回 x+y
+	//		- multiplies<T>：输入两个类型为T的操作数 x 与 y，返回 x*y
+	//		- minus<T>：输入两个类型为T的操作数 x 与 y，返回 y-x
+	//		- divide<T>：输入两个类型为T的操作数 x 与 y，返回 y/x
+	//		- modulus<T>：输入两个类型为T的操作数 x 与 y，返回 x%y
+	//		- negate<T>：输入一个类型为T的操作数 x，返回 -x
+	//		- equal_to<T>：输入两个类型为T的操作数 x 与 y，返回 x==y
+	//		- not_equal_to<T>：输入两个类型为T的操作数 x 与 y，返回 x!=y
+	//		- greater<T>：输入两个类型为T的操作数 x 与 y，返回 x>y
+	//		- less<T>：输入两个类型为T的操作数 x 与 y，返回 x<y
+	//		- greater_equal<T>：输入两个类型为T的操作数 x 与 y，返回 x>=y
+	//		- less_equal<T>：输入两个类型为T的操作数 x 与 y，返回 x<=y
+	//		- logical_and<T>：输入两个类型为T的操作数 x 与 y，返回 x&&y
+	//		- logical_or<T>：输入两个类型为T的操作数 x 与 y，返回 x||y
+	//		- logical_not<T>>：输入一个类型为T的操作数 x，返回 !x
 
 	cout << "===>Ch10<===" << endl;
 
 	//src1001(); cout << endl;
-	src1002(); cout << endl;
-	src1003(); cout << endl;
-	src1004(); cout << endl;
-	src1005(); cout << endl;
-	src1006(); cout << endl;
-	src1007(); cout << endl;
-	src1008(); cout << endl;
-	src1009(); cout << endl;
+	//src1002(); cout << endl;
+	//src1003(); cout << endl;
+	//src1004(); cout << endl;
+	//src1005(); cout << endl;
+	//src1006(); cout << endl;
+	//src1007(); cout << endl;
+	//src1008(); cout << endl;
+	//src1009(); cout << endl;
+	//src1010(); cout << endl;
+	//src1011(); cout << endl;
+	//src1012(); cout << endl;
+	src1013(); cout << endl;
+	src1014(); cout << endl;
+	src1015(); cout << endl;
 }
