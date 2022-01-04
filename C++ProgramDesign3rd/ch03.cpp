@@ -2,7 +2,7 @@
 #include "ch03.h"
 using namespace std;
 
-void chap03()
+void ch03()
 {
 	src0301(); cout << endl;
 	src0302(); cout << endl;
