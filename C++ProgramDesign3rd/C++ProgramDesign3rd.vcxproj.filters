@@ -34,7 +34,10 @@
     <Filter Include="Source Files\ch10">
       <UniqueIdentifier>{53b7d6a1-7511-45f5-9c6c-bcdb0f2a4681}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\chap03">
+    <Filter Include="Source Files\ch11">
+      <UniqueIdentifier>{b0f3804b-6fe6-490b-acf2-94928845cd34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ch03">
       <UniqueIdentifier>{9ac947ad-92be-4f42-8664-60cd98a807a2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -42,58 +45,58 @@
     <ClCompile Include="C++ProgramDesign3rd.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\chap03\src3_1.cpp">
-      <Filter>Source Files\chap03</Filter>
+    <ClCompile Include="src\chap03\src0301.cpp">
+      <Filter>Source Files\ch03</Filter>
     </ClCompile>
-    <ClCompile Include="src\chap03\src3_2.cpp">
-      <Filter>Source Files\chap03</Filter>
+    <ClCompile Include="src\chap03\src0302.cpp">
+      <Filter>Source Files\ch03</Filter>
     </ClCompile>
-    <ClCompile Include="src\chap03\src3_3.cpp">
-      <Filter>Source Files\chap03</Filter>
+    <ClCompile Include="src\chap03\src0303.cpp">
+      <Filter>Source Files\ch03</Filter>
     </ClCompile>
-    <ClCompile Include="src\chap03\src3_4.cpp">
-      <Filter>Source Files\chap03</Filter>
+    <ClCompile Include="src\chap03\src0304.cpp">
+      <Filter>Source Files\ch03</Filter>
     </ClCompile>
-    <ClCompile Include="src\chap03\src3_5.cpp">
-      <Filter>Source Files\chap03</Filter>
+    <ClCompile Include="src\chap03\src0305.cpp">
+      <Filter>Source Files\ch03</Filter>
     </ClCompile>
-    <ClCompile Include="src\chap03\src3_6.cpp">
-      <Filter>Source Files\chap03</Filter>
+    <ClCompile Include="src\chap03\src0306.cpp">
+      <Filter>Source Files\ch03</Filter>
     </ClCompile>
-    <ClCompile Include="src\chap03\src3_7.cpp">
-      <Filter>Source Files\chap03</Filter>
+    <ClCompile Include="src\chap03\src0307.cpp">
+      <Filter>Source Files\ch03</Filter>
     </ClCompile>
-    <ClCompile Include="src\chap03\src3_8.cpp">
-      <Filter>Source Files\chap03</Filter>
+    <ClCompile Include="src\chap03\src0308.cpp">
+      <Filter>Source Files\ch03</Filter>
     </ClCompile>
-    <ClCompile Include="src\chap03\src3_9.cpp">
-      <Filter>Source Files\chap03</Filter>
+    <ClCompile Include="src\chap03\src0309.cpp">
+      <Filter>Source Files\ch03</Filter>
     </ClCompile>
-    <ClCompile Include="src\chap03\src3_10.cpp">
-      <Filter>Source Files\chap03</Filter>
+    <ClCompile Include="src\chap03\src0310.cpp">
+      <Filter>Source Files\ch03</Filter>
     </ClCompile>
-    <ClCompile Include="src\chap03\src03_11.cpp">
-      <Filter>Source Files\chap03</Filter>
+    <ClCompile Include="src\chap03\src0311.cpp">
+      <Filter>Source Files\ch03</Filter>
     </ClCompile>
-    <ClCompile Include="src\chap03\src03_12.cpp">
-      <Filter>Source Files\chap03</Filter>
+    <ClCompile Include="src\chap03\src0312.cpp">
+      <Filter>Source Files\ch03</Filter>
     </ClCompile>
-    <ClCompile Include="src\chap03\src03_13.cpp">
-      <Filter>Source Files\chap03</Filter>
+    <ClCompile Include="src\chap03\src0313.cpp">
+      <Filter>Source Files\ch03</Filter>
     </ClCompile>
-    <ClCompile Include="src\chap03\src03_14.cpp">
-      <Filter>Source Files\chap03</Filter>
+    <ClCompile Include="src\chap03\src0314.cpp">
+      <Filter>Source Files\ch03</Filter>
     </ClCompile>
-    <ClCompile Include="src\chap03\src03_15.cpp">
-      <Filter>Source Files\chap03</Filter>
+    <ClCompile Include="src\chap03\src0315.cpp">
+      <Filter>Source Files\ch03</Filter>
     </ClCompile>
-    <ClCompile Include="src\chap03\src03_16.cpp">
-      <Filter>Source Files\chap03</Filter>
+    <ClCompile Include="src\chap03\src0316.cpp">
+      <Filter>Source Files\ch03</Filter>
     </ClCompile>
-    <ClCompile Include="src\chap03\src03_17.cpp">
-      <Filter>Source Files\chap03</Filter>
+    <ClCompile Include="src\chap03\src0317.cpp">
+      <Filter>Source Files\ch03</Filter>
     </ClCompile>
-    <ClCompile Include="chap03.cpp">
+    <ClCompile Include="ch03.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="ch04.cpp">
@@ -315,9 +318,15 @@
     <ClCompile Include="src\ch10\src1015.cpp">
       <Filter>Source Files\ch10</Filter>
     </ClCompile>
+    <ClCompile Include="ch11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch11\src1101.cpp">
+      <Filter>Source Files\ch11</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="include\chap3.h">
+    <ClInclude Include="include\ch03.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="C++ProgramDesign3rd.h">
@@ -387,6 +396,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="include\ch10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ch11.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
