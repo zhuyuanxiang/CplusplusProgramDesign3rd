@@ -2,7 +2,7 @@
 #include <cmath>	// C++ 标准库中数学函数
 
 using namespace std;
-void src3_5()
+void src0305()
 {
 	// 求公式的值
 	cout << "--->" << "代码3-5：" << "<---" << endl;

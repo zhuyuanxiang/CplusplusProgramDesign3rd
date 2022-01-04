@@ -12,7 +12,7 @@ void fiddle(int a, int& b) {
 	int t;
 	t = a; a = b; b = t;
 }
-void src03_13()
+void src0313()
 {
 	// P76，引用举例
 	cout << "--->" << "代码3-13（引用举例）：" << "<---" << endl;

@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 using namespace std;
-void src3_3() {
+void src0303() {
 	// 求PI的值
 	cout << "--->" << "代码3-3：" << "<---" << endl;
 	double a, b;

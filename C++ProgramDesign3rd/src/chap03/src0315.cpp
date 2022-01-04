@@ -5,7 +5,7 @@ using namespace std;
 
 int get_volumne(int length, int width = 2, int height = 3);
 
-void src03_15()
+void src0315()
 {
 	// P81，带默认值的形参
 	cout << "--->" << "代码3-15（带默认值的形参）：" << "<---" << endl;

@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void src3_7()
+void src0307()
 {
 	// P70，嵌套调用：输入两个整数，求它们的平方和
 	cout << "--->" << "代码3-7：" << "<---" << endl;

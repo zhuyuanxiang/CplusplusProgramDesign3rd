@@ -5,7 +5,7 @@ using namespace std;
 
 int rolldice(void);
 
-void src3_6()
+void src0306()
 {
 	// 掷骰子游戏
 	cout << "--->" << "代码3-6：" << "<---" << endl;

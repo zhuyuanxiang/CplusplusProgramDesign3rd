@@ -5,7 +5,7 @@ using namespace std;
 
 const double pi(3.14159265);
 
-void src03_17()
+void src0317()
 {
 	// P85，sec0305，使用C++系统函数
 	cout << "--->" << "代码3-17（使用C++系统函数）：" << "<---" << endl;

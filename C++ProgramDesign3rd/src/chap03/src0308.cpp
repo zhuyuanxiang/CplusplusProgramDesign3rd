@@ -8,7 +8,7 @@ long fac(int n) {
 	else f = fac(n - 1) * n;
 	return(f);
 }
-void src3_8()
+void src0308()
 {
 	// P72，递归调用：求n的阶乘
 	cout << "--->" << "代码3-8：" << "<---" << endl;

@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 
-void src3_4()
+void src0304()
 {
 	//寻找并输出11~999之间的数m，保证m,m*m,m*m*m都是回文数字
 	cout << "--->" << "代码3-4：" << "<---" << endl;

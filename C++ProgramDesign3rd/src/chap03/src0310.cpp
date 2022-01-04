@@ -12,7 +12,7 @@ void hanoi(int n, char one, char two, char three) {
 		hanoi(n - 1, two, one, three);
 	}
 }
-void src3_10()
+void src0310()
 {
 	// P74，汉诺塔问题
 	cout << "--->" << "代码3-10：" << "<---" << endl;

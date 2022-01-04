@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 
-void src3_9()
+void src0309()
 {
 	// P73，递归算法：从n个人中选择k个人组成委员会的方法有多少种？
 	cout << "--->" << "代码3-9：" << "<---" << endl;

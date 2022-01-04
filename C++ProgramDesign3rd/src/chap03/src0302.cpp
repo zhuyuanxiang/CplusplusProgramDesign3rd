@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 double bin2dec(double x, int n);
-void src3_2()
+void src0302()
 {
 	cout << "--->" << "代码3-2：" << "<---" << endl;
 	int i, value(0);
