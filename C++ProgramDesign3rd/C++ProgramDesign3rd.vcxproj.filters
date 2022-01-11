@@ -324,6 +324,15 @@
     <ClCompile Include="src\ch11\src1101.cpp">
       <Filter>Source Files\ch11</Filter>
     </ClCompile>
+    <ClCompile Include="src\ch11\src1102.cpp">
+      <Filter>Source Files\ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch11\src1103.cpp">
+      <Filter>Source Files\ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch11\src1104.cpp">
+      <Filter>Source Files\ch11</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\ch03.h">
