@@ -40,6 +40,9 @@
     <Filter Include="Source Files\ch03">
       <UniqueIdentifier>{9ac947ad-92be-4f42-8664-60cd98a807a2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\ch12">
+      <UniqueIdentifier>{cdc38b6d-62d6-4101-a55c-e243572cdc13}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="C++ProgramDesign3rd.cpp">
@@ -353,6 +356,12 @@
     </ClCompile>
     <ClCompile Include="src\ch12.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch12\src1201.cpp">
+      <Filter>Source Files\ch12</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch12\src1202.cpp">
+      <Filter>Source Files\ch12</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

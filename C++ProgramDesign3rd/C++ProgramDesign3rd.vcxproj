@@ -256,6 +256,8 @@
     <ClCompile Include="src\ch11\src1108.cpp" />
     <ClCompile Include="src\ch11\src1109.cpp" />
     <ClCompile Include="src\ch11\src1110.cpp" />
+    <ClCompile Include="src\ch12\src1201.cpp" />
+    <ClCompile Include="src\ch12\src1202.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C++ProgramDesign3rd.h" />
