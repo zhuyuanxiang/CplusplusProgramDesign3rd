@@ -153,17 +153,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C++ProgramDesign3rd.cpp" />
-    <ClCompile Include="ch05.cpp" />
-    <ClCompile Include="ch06.cpp" />
-    <ClCompile Include="ch07.cpp" />
-    <ClCompile Include="ch08.cpp" />
-    <ClCompile Include="ch09.cpp" />
-    <ClCompile Include="ch10.cpp" />
-    <ClCompile Include="ch11.cpp" />
-    <ClCompile Include="ch03.cpp" />
-    <ClCompile Include="ch04.cpp">
-      <DeploymentContent>false</DeploymentContent>
-    </ClCompile>
+    <ClCompile Include="src\ch03.cpp" />
+    <ClCompile Include="src\ch04.cpp" />
+    <ClCompile Include="src\ch05.cpp" />
+    <ClCompile Include="src\ch06.cpp" />
+    <ClCompile Include="src\ch07.cpp" />
+    <ClCompile Include="src\ch08.cpp" />
+    <ClCompile Include="src\ch09.cpp" />
+    <ClCompile Include="src\ch10.cpp" />
+    <ClCompile Include="src\ch11.cpp" />
+    <ClCompile Include="src\ch12.cpp" />
     <ClCompile Include="src\ch04\Line.cpp" />
     <ClCompile Include="src\ch04\Point.cpp" />
     <ClCompile Include="src\ch04\src0402.cpp" />
@@ -272,6 +271,7 @@
     <ClInclude Include="include\ch10.h" />
     <ClInclude Include="include\ch11.h" />
     <ClInclude Include="include\ch03.h" />
+    <ClInclude Include="include\ch12.h" />
     <ClInclude Include="include\Clock.h" />
     <ClInclude Include="include\complex.h" />
     <ClInclude Include="include\LinkedList.h" />

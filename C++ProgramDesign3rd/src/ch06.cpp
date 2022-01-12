@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-#include "include/ch06.h"
+#include "ch06.h"
 
 using namespace std;
 

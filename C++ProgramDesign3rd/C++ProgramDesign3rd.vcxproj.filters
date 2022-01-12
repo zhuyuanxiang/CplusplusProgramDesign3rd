@@ -96,10 +96,10 @@
     <ClCompile Include="src\ch03\src0317.cpp">
       <Filter>Source Files\ch03</Filter>
     </ClCompile>
-    <ClCompile Include="ch03.cpp">
+    <ClCompile Include="src\ch03.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ch04.cpp">
+    <ClCompile Include="src\ch04.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\ch04\src0401.cpp">
@@ -123,7 +123,7 @@
     <ClCompile Include="src\ch04\src0405.cpp">
       <Filter>Source Files\ch04</Filter>
     </ClCompile>
-    <ClCompile Include="ch05.cpp">
+    <ClCompile Include="src\ch05.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\ch05\src0501.cpp">
@@ -156,7 +156,7 @@
     <ClCompile Include="src\ch05\src0509.cpp">
       <Filter>Source Files\ch05</Filter>
     </ClCompile>
-    <ClCompile Include="ch06.cpp">
+    <ClCompile Include="src\ch06.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\ch06\src0601.cpp">
@@ -231,10 +231,10 @@
     <ClCompile Include="src\ch06\src0624.cpp">
       <Filter>Source Files\ch06</Filter>
     </ClCompile>
-    <ClCompile Include="ch07.cpp">
+    <ClCompile Include="src\ch07.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ch08.cpp">
+    <ClCompile Include="src\ch08.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\ch08\src0801.cpp">
@@ -252,7 +252,7 @@
     <ClCompile Include="src\ch08\src0803.cpp">
       <Filter>Source Files\ch08</Filter>
     </ClCompile>
-    <ClCompile Include="ch09.cpp">
+    <ClCompile Include="src\ch09.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\ch09\src0901.cpp">
@@ -270,7 +270,7 @@
     <ClCompile Include="src\ch09\src0909.cpp">
       <Filter>Source Files\ch09</Filter>
     </ClCompile>
-    <ClCompile Include="ch10.cpp">
+    <ClCompile Include="src\ch10.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\ch10\src1001.cpp">
@@ -318,7 +318,7 @@
     <ClCompile Include="src\ch10\src1015.cpp">
       <Filter>Source Files\ch10</Filter>
     </ClCompile>
-    <ClCompile Include="ch11.cpp">
+    <ClCompile Include="src\ch11.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\ch11\src1101.cpp">
@@ -350,6 +350,9 @@
     </ClCompile>
     <ClCompile Include="src\ch11\src1110.cpp">
       <Filter>Source Files\ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch12.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -426,6 +429,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="include\ch11.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ch12.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
