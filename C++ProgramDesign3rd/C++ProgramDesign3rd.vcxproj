@@ -258,6 +258,7 @@
     <ClCompile Include="src\ch11\src1110.cpp" />
     <ClCompile Include="src\ch12\src1201.cpp" />
     <ClCompile Include="src\ch12\src1202.cpp" />
+    <ClCompile Include="src\ch13.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C++ProgramDesign3rd.h" />
@@ -274,6 +275,7 @@
     <ClInclude Include="include\ch11.h" />
     <ClInclude Include="include\ch03.h" />
     <ClInclude Include="include\ch12.h" />
+    <ClInclude Include="include\ch13.h" />
     <ClInclude Include="include\Clock.h" />
     <ClInclude Include="include\complex.h" />
     <ClInclude Include="include\LinkedList.h" />
